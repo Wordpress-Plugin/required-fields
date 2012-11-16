@@ -3,6 +3,8 @@ Required Fields
 
 Adds an extensible API and some basic settings to WordPress to make standard fields on the post edit screen required before a post can be published.
 
+## Usage
+
 Head to the **Writing** settings page and scroll to the bottom. There you will find boxes to check to make certain fields required when a user adds or edits a post or page.
 
 The default options are to make the title, content, custom excerpt and category mandatory.
