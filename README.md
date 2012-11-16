@@ -7,7 +7,7 @@ Head to the **Writing** settings page and scroll to the bottom. There you will f
 
 The default options are to make the title, content, custom excerpt and category mandatory.
 
-== API ==
+## API
 
 There is an API to add your own required fields too:
 
